@@ -1,0 +1,1 @@
+import{h as e,j as n}from"./index-BwQ9_pH1.js";const s={"notfound-page":"_notfound-page_ojne8_1"},c=()=>{const o=e(),t=()=>{o(-1)};return n.jsxs("div",{className:s["notfound-page"],children:[n.jsx("p",{children:"Страница в разработке, покажем совсем скоро"}),n.jsx("button",{onClick:t,children:"Вернуться"})]})};export{c as default};
